@@ -1,2 +1,2 @@
-# JavaFx
-tim buchalkanın java derslerinden
+# JavaFX
+ java kursandan
